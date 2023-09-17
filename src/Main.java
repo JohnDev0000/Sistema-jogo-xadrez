@@ -1,3 +1,4 @@
+import boardgame.Board;
 import boardgame.Position;
 
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
@@ -5,9 +6,6 @@ import boardgame.Position;
 public class Main {
     public static void main(String[] args) {
 
-        Position pos = new Position(2, 5);
-
-        System.out.println(pos);
 
     }
 }
