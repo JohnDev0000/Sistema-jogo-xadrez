@@ -54,3 +54,5 @@ bin/
 hs_err_pid*
 replay_pid*
 >>>>>>> cd91c92f48159f870cc47e308c17d6bdb4e5ed86
+/.idea/
+/.idea/
