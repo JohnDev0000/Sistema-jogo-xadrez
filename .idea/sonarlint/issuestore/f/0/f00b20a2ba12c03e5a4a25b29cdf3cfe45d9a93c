@@ -1,13 +1,19 @@
 
 W
-java:S1118
-":Add a private constructor to hide the implicit public one.(°Ë…¸8½¦ÁÀª1
-G	java:S106!"+Replace this use of System.out by a logger.(Îœò—8¿¦ÁÀª1
-G	java:S106""+Replace this use of System.out by a logger.(ÚÂâ8Â¦ÁÀª1
-G	java:S1067"+Replace this use of System.out by a logger.(ï„ï8Ã¦ÁÀª1
-L	java:S106;"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Ã¦ÁÀª1
-L	java:S106="+Replace this use of System.out by a logger.(Â«…ßıÿÿÿÿ8Ã¦ÁÀª1
-L	java:S106B"+Replace this use of System.out by a logger.(¹¦Ô„ÿÿÿÿÿ8Ã¦ÁÀª1
-F	java:S106E"+Replace this use of System.out by a logger.(Æ‡Ç8Ä¦ÁÀª1
-G	java:S106G"+Replace this use of System.out by a logger.(‰ÿË´8Ä¦ÁÀª1
-G	java:S106J"+Replace this use of System.out by a logger.(×•œ²8›ÀÁÀª1
+java:S1118":Add a private constructor to hide the implicit public one.(°Ë…¸8ŞÈìª1
+G	java:S106""+Replace this use of System.out by a logger.(Îœò—8àÈìª1
+G	java:S106#"+Replace this use of System.out by a logger.(ÚÂâ8àÈìª1
+L	java:S1068"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8âÈìª1
+L	java:S1069"+Replace this use of System.out by a logger.(ûá‘ûÿÿÿÿ8âÈìª1
+L	java:S106:"+Replace this use of System.out by a logger.(È˜æïûÿÿÿÿ8âÈìª1
+G	java:S106?"+Replace this use of System.out by a logger.(ï„ï8ãÈìª1
+L	java:S106C"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ãÈìª1
+L	java:S106E"+Replace this use of System.out by a logger.(Â«…ßıÿÿÿÿ8ãÈìª1
+G	java:S106J"+Replace this use of System.out by a logger.(ï„ï8äÈìª1
+L	java:S106N"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8äÈìª1
+L	java:S106P"+Replace this use of System.out by a logger.(Â«…ßıÿÿÿÿ8äÈìª1
+L	java:S106U"+Replace this use of System.out by a logger.(œ”×£ûÿÿÿÿ8äÈìª1
+G	java:S106X"+Replace this use of System.out by a logger.(âû®8äÈìª1
+F	java:S106["+Replace this use of System.out by a logger.(Æ‡Ç8åÈìª1
+G	java:S106]"+Replace this use of System.out by a logger.(‰ÿË´8åÈìª1
+G	java:S106`"+Replace this use of System.out by a logger.(×•œ²8åÈìª1
