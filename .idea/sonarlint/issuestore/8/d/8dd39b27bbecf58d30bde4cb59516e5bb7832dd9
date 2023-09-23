@@ -1,11 +1,9 @@
 
-D
-java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8½ñ×òª1
 f
-java:S2147/"DCombine this catch with the one at line 43, which has the same body.(±…Áÿÿÿÿÿ8Âñ×òª1
-L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Ãñ×òª1
-F	java:S106"+Replace this use of System.out by a logger.(èÕªm8Ãñ×òª1
-L	java:S106!"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Ãñ×òª1
-G	java:S106""+Replace this use of System.out by a logger.(¤ûŒµ8Ãñ×òª1
-L	java:S106,"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8Äñ×òª1
-L	java:S1060"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8Äñ×òª1
+java:S2147/"DCombine this catch with the one at line 43, which has the same body.(±…Áÿÿÿÿÿ8ô™“«1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ô™“«1
+F	java:S106"+Replace this use of System.out by a logger.(èÕªm8ô™“«1
+L	java:S106!"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8õ™“«1
+G	java:S106""+Replace this use of System.out by a logger.(¤ûŒµ8õ™“«1
+L	java:S106,"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ö™“«1
+L	java:S1060"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ö™“«1

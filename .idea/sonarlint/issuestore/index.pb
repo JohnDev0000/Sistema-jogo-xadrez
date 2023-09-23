@@ -28,3 +28,11 @@ G
 src/application/UI.java,f\0\f00b20a2ba12c03e5a4a25b29cdf3cfe45d9a93c
 I
 src/chess/ChessMatch.java,a\f\afffe56e7c2d80517c9aec9f344453fe3e900f7c
+P
+ src/chess/chess/pieces/Pawn.java,4\f\4fc20ea6d86e7b85dc081840c961219a739b0d8b
+R
+"src/chess/chess/pieces/Knight.java,d\3\d36a9736e905bf804ce64a183cd2141a34349ec4
+R
+"src/chess/chess/pieces/Bishop.java,f\8\f8201beb46d2834da58f23f274665a836d6538dd
+Q
+!src/chess/chess/pieces/Queen.java,1\f\1f87f08f6ae6271b36edf2720f463ad2886554e0
